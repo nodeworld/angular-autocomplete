@@ -24,7 +24,7 @@ class="auto-complete-textfield-container">
   autocomplete="off"
   [placeholder]="placeholder" />
         <span *ngIf="showdropDownArrow" class="arrow down" (click)="onFocus()"></span>
-        <span (click)="clearSearch()" *ngIf="searchValue && triggerClearSelectionEvent && showClearOption"
+        <span (click)="clearSearch()" *ngIf="searchValue && showClearOption"
         class="auto-complete-remove-selection">&times;</span>
         <ng-content select="[textField]"></ng-content>
 <div

@@ -20,10 +20,10 @@ A simple and powerful autocomplete tool programmed for Angular projects!
 
 ## Installation
 
-Install angular-autocomplete with npm
+Install ng-autosuggest with npm
 
 ```bash
-  npm install angular-autocomplete --save
+  npm install ng-autosuggest --save
 ```
 
 

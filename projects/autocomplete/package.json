@@ -1,6 +1,6 @@
 {
-  "name": "angular-autocomplete",
-  "version": "0.0.1",
+  "name": "ng-autosuggest",
+  "version": "0.0.9",
   "peerDependencies": {
     "@angular/common": "^14.0.0",
     "@angular/core": "^14.0.0"
