@@ -1,7 +1,7 @@
 
 # Angular Autocomplete 
 
-A simple and powerful autocomplete tool programmed for Angular projects!
+A simple and powerful autocomplete tool programmed for Angular projects.
     
 
 ## Whats better in this package?
