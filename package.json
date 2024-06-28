@@ -1,6 +1,6 @@
 {
-  "name": "angular-autocomplete",
-  "version": "0.0.8",
+  "name": "ng-autosuggest",
+  "version": "0.0.9",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "^14.0.0",
     "@angular/common": "^14.0.0",
@@ -41,11 +41,8 @@
     "autocomplete",
     "angular autocomplete",
     "auto suggest",
+    "ng autosuggest",
     "ng autocomplete",
-    "angular 6",
-    "angular 7",
-    "angular 8",
-    "angular 9",
     "angular 10",
     "angular 11",
     "angular 12",
